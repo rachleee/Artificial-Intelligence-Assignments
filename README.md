@@ -1,7 +1,7 @@
 # Artificial-Intelligence-Assignments
 
 ## About the Project
-This repository is to showcase my project of using Python for Artificial Intelligence. It uses Python libraries including **sklearn**, **numpy** and **pandas** for data visualization and pipeline, respectively.
+This repository is to showcase my project of using Python for Artificial Intelligence. It uses Python libraries including **sklearn**, **numpy** and **pandas**.
 
 ## Getting Started
 These are the steps to install and download Python and Visual Studio Code.
