@@ -1,8 +1,4 @@
 #Rachel Lee
-#0695297
-#COIS 4550H
-#Assignment #3
-#April 11, 2024
 
 
 #Program Description: This program uses naive bayes for classification. It will split the training and testing to 80% and 20% respectfully.
