@@ -1,8 +1,4 @@
 #Rachel Lee
-#0695297
-#COIS 4550H
-#Assignment #2
-#March 24, 2024
 
 #Description: The python program is to implement the hill climbing algorithm to solve the 8-queen probllem
 
